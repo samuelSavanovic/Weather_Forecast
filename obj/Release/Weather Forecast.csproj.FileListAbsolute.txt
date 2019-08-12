@@ -1,0 +1,20 @@
+C:\Users\samue\source\repos\Weather Forecast\bin\Release\Weather Forecast.exe.config
+C:\Users\samue\source\repos\Weather Forecast\bin\Release\Weather Forecast.exe
+C:\Users\samue\source\repos\Weather Forecast\bin\Release\Weather Forecast.pdb
+C:\Users\samue\source\repos\Weather Forecast\bin\Release\Newtonsoft.Json.dll
+C:\Users\samue\source\repos\Weather Forecast\bin\Release\Newtonsoft.Json.xml
+C:\Users\samue\source\repos\Weather Forecast\obj\Release\Weather Forecast.csprojAssemblyReference.cache
+C:\Users\samue\source\repos\Weather Forecast\obj\Release\Weather_Forecast.Form1.resources
+C:\Users\samue\source\repos\Weather Forecast\obj\Release\Weather_Forecast.Properties.Resources.resources
+C:\Users\samue\source\repos\Weather Forecast\obj\Release\Weather Forecast.csproj.GenerateResource.cache
+C:\Users\samue\source\repos\Weather Forecast\obj\Release\Weather Forecast.csproj.CoreCompileInputs.cache
+C:\Users\samue\source\repos\Weather Forecast\obj\Release\Weather Forecast.csproj.CopyComplete
+C:\Users\samue\source\repos\Weather Forecast\obj\Release\Weather Forecast.exe
+C:\Users\samue\source\repos\Weather Forecast\obj\Release\Weather Forecast.pdb
+C:\Users\samue\source\repos\Weather Forecast\obj\Release\Weather_Forecast.Form2.resources
+C:\Users\samue\source\repos\Weather Forecast\obj\Release\Weather_Forecast.Resource1.resources
+C:\Users\samue\source\repos\Weather Forecast\bin\Release\Weather Forecast.exe.manifest
+C:\Users\samue\source\repos\Weather Forecast\bin\Release\Weather Forecast.application
+C:\Users\samue\source\repos\Weather Forecast\obj\Release\Weather Forecast.TrustInfo.xml
+C:\Users\samue\source\repos\Weather Forecast\obj\Release\Weather Forecast.exe.manifest
+C:\Users\samue\source\repos\Weather Forecast\obj\Release\Weather Forecast.application

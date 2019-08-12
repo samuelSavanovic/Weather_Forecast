@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+    <configSections>
+        <sectionGroup name="userSettings" type="System.Configuration.UserSettingsGroup, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" >
+            <section name="Weather_Forecast.Properties.Settings" type="System.Configuration.ClientSettingsSection, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" allowExeDefinition="MachineToLocalUser" requirePermission="false" />
+        </sectionGroup>
+    </configSections>
+    <startup> 
+        <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.7.2" />
+    </startup>
+    <userSettings>
+        <Weather_Forecast.Properties.Settings>
+            <setting name="showAgain" serializeAs="String">
+                <value>true</value>
+            </setting>
+            <setting name="City" serializeAs="String">
+                <value>Zadar</value>
+            </setting>
+            <setting name="CountryCode" serializeAs="String">
+                <value>HR</value>
+            </setting>
+        </Weather_Forecast.Properties.Settings>
+    </userSettings>
+</configuration>

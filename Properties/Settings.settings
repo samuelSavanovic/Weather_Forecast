@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Weather_Forecast.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="showAgain" Type="System.String" Scope="User">
+      <Value Profile="(Default)">true</Value>
+    </Setting>
+    <Setting Name="City" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Zadar</Value>
+    </Setting>
+    <Setting Name="CountryCode" Type="System.String" Scope="User">
+      <Value Profile="(Default)">HR</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

@@ -1,0 +1,20 @@
+C:\Users\samue\source\repos\Weather Forecast\obj\Debug\Weather_Forecast.Form1.resources
+C:\Users\samue\source\repos\Weather Forecast\obj\Debug\Weather_Forecast.Form2.resources
+C:\Users\samue\source\repos\Weather Forecast\obj\Debug\Weather_Forecast.Properties.Resources.resources
+C:\Users\samue\source\repos\Weather Forecast\obj\Debug\Weather_Forecast.Resource1.resources
+C:\Users\samue\source\repos\Weather Forecast\obj\Debug\Weather Forecast.csproj.GenerateResource.cache
+C:\Users\samue\source\repos\Weather Forecast\obj\Debug\Weather Forecast.csproj.CoreCompileInputs.cache
+C:\Users\samue\source\repos\Weather Forecast\bin\Debug\Weather Forecast.exe.config
+C:\Users\samue\source\repos\Weather Forecast\bin\Debug\Weather Forecast.exe.manifest
+C:\Users\samue\source\repos\Weather Forecast\bin\Debug\Weather Forecast.application
+C:\Users\samue\source\repos\Weather Forecast\bin\Debug\Weather Forecast.exe
+C:\Users\samue\source\repos\Weather Forecast\bin\Debug\Weather Forecast.pdb
+C:\Users\samue\source\repos\Weather Forecast\bin\Debug\Newtonsoft.Json.dll
+C:\Users\samue\source\repos\Weather Forecast\bin\Debug\Newtonsoft.Json.xml
+C:\Users\samue\source\repos\Weather Forecast\obj\Debug\Weather Forecast.TrustInfo.xml
+C:\Users\samue\source\repos\Weather Forecast\obj\Debug\Weather Forecast.exe.manifest
+C:\Users\samue\source\repos\Weather Forecast\obj\Debug\Weather Forecast.application
+C:\Users\samue\source\repos\Weather Forecast\obj\Debug\Weather Forecast.csproj.CopyComplete
+C:\Users\samue\source\repos\Weather Forecast\obj\Debug\Weather Forecast.exe
+C:\Users\samue\source\repos\Weather Forecast\obj\Debug\Weather Forecast.pdb
+C:\Users\samue\source\repos\Weather Forecast\obj\Debug\Weather Forecast.csprojAssemblyReference.cache
